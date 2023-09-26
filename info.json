@@ -1,0 +1,10 @@
+{
+    "name": "CrystalBiters",
+    "version": "0.0.1",
+    "title": "Crystal Bugs by RL",
+    "author": "robot173, lucker",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.1.80"
+    ]
+}
